@@ -13,7 +13,8 @@ test case 06
     
 test case 07
      [tags]    smoke    trains 
-    log    test7
+    log    test78
+    log    test79
     
 test case 08
      [tags]    nightly    trains 
